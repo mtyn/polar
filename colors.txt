@@ -1,0 +1,10 @@
+BG: #eceff4
+FG: #2e3440
+Black: #4c566a
+Red: #bf616a
+Green: #88ac69
+Yellow: #e2bd72
+Blue: #658db5
+Purple: #a4779c
+Cyan: #67aba9
+White: #bac3d6
