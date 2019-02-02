@@ -22,3 +22,7 @@ A light colour scheme based on [@arcticeicestudio's Nord](https://github.com/arc
 #### Xcode
 
 ![xcode](https://github.com/mtyn/polar/blob/master/xcode/xcode.png?raw=true)
+
+#### Jetbrains (IntelliJ, Webstorm etc)
+
+![xcode](https://github.com/mtyn/polar/blob/master/jetbrains/jetbrains.png?raw=true)
