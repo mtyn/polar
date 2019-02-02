@@ -18,3 +18,7 @@ A light colour scheme based on [@arcticeicestudio's Nord](https://github.com/arc
 #### Vim / Lightline
 
 ![vim](https://github.com/mtyn/polar/blob/master/vim/vim.png?raw=true)
+
+#### Xcode
+
+![xcode](https://github.com/mtyn/polar/blob/master/xcode/xcode.png?raw=true)
