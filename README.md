@@ -25,4 +25,8 @@ A light colour scheme based on [@arcticeicestudio's Nord](https://github.com/arc
 
 #### Jetbrains (IntelliJ, Webstorm etc)
 
-![xcode](https://github.com/mtyn/polar/blob/master/jetbrains/jetbrains.png?raw=true)
+![jetbrains](https://github.com/mtyn/polar/blob/master/jetbrains/jetbrains.png?raw=true)
+
+#### Tmux
+
+![tmux](https://github.com/mtyn/polar/blob/master/tmux/tmux.png?raw=true)

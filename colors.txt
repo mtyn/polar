@@ -2,8 +2,9 @@ BG: #eceff4
 FG: #2e3440
 Black: #4c566a
 Red: #bf616a
-Green: #88ac69
+Orange: #d08770
 Yellow: #e2bd72
+Green: #88ac69
 Blue: #658db5
 Purple: #a4779c
 Cyan: #67aba9
