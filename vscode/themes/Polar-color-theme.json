@@ -57,7 +57,7 @@
 	  "editorGroupHeader.tabsBorder": "#eceff400",
 	  "editorGutter.background": "#eceff4",
 	  "editorGutter.modifiedBackground": "#e2bd72",
-	  "editorGutter.addedBackground": "#88ac69 ",
+	  "editorGutter.addedBackground": "#88ac69",
 	  "editorGutter.deletedBackground": "#bf616a",
 	  "editorHoverWidget.background": "#eceff4",
 	  "editorHoverWidget.border": "#eceff4",
