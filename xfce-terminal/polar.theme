@@ -1,4 +1,6 @@
-[Configuration]
+[Scheme]
+Name=Polar
+ColorBoldUseDefault=FALSE
 ColorCursor=#2e2e34344040
 ColorForeground=#2e2e34344040
 ColorBackground=#ececefeff4f4

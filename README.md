@@ -5,8 +5,6 @@ A light colour scheme based on [@arcticeicestudio's Nord](https://github.com/arc
 
 ## Included:
 
-#### Xfce Terminal
-
 #### iTerm 2
 
 ![iterm2](https://github.com/mtyn/polar/blob/master/iterm2/iterm2.png?raw=true)
@@ -30,3 +28,8 @@ A light colour scheme based on [@arcticeicestudio's Nord](https://github.com/arc
 #### Tmux
 
 ![tmux](https://github.com/mtyn/polar/blob/master/tmux/tmux.png?raw=true)
+
+#### Xfce Terminal
+
+#### Slack
+
