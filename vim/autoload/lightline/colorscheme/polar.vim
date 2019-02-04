@@ -27,7 +27,7 @@ let s:p.inactive.left =  [ [ s:polar1, s:polar8 ], [ s:polar5, s:polar1 ] ]
 let s:p.inactive.middle = [ [ s:polar5, s:polar1 ] ]
 let s:p.inactive.right = [ [ s:polar5, s:polar1 ], [ s:polar5, s:polar1 ] ]
 
-let s:p.insert.left = [ [ s:polar1, s:polar6 ], [ s:polar5, s:polar1 ] ]
+let s:p.insert.left = [ [ s:polar3, s:polar6 ], [ s:polar5, s:polar1 ] ]
 let s:p.replace.left = [ [ s:polar1, s:polar13 ], [ s:polar5, s:polar1 ] ]
 let s:p.visual.left = [ [ s:polar1, s:polar7 ], [ s:polar5, s:polar1 ] ]
 
