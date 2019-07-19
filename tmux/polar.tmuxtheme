@@ -70,5 +70,5 @@ set -g message-command-bg white
 set -g message-command-fg black
 
 # Mode
-set -g mode-bg yellow
-set -g mode-fg black
+#set -g mode-bg yellow
+#set -g mode-fg black
