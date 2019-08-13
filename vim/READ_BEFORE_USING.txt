@@ -1,0 +1,3 @@
+Please note, the vim theme currently just makes vim use terminal colours, so will only work when
+using one of the Polar terminal themes. Currently it is also missing the colours for GUI vim, which
+will be added in a later update.
