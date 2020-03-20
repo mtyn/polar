@@ -22,12 +22,11 @@
 	  "dropdown.border": "#eceff4",
 	  "dropdown.foreground": "#2e3440",
 	  "editorCursor.foreground": "#2e3440",
-	  "editorIndentGuide.background": "#eceff4b3",
+	  "editorIndentGuide.background": "#e5e9f0",
 	  "editorIndentGuide.activeBackground": "#d8dee9",
 	  "editorLineNumber.foreground": "#2e344066",
 	  "editorWhitespace.foreground": "#d8dee9b3",
 	  "editorWidget.background": "#eceff4",
-	  "editorWidgetBorder": "#eceff4",
 	  "editor.background": "#eceff4",
 	  "editor.foreground": "#2e3440",
 	  "editor.hoverHighlightBackground": "#eceff4",
@@ -74,7 +73,7 @@
 	  "editorOverviewRuler.wordHighlightForeground": "#67aba966",
 	  "editorOverviewRuler.wordHighlightStrongForeground": "#67aba966",
 	  "editorOverviewRuler.modifiedForeground": "#e2bd72",
-	  "editorOverviewRuler.addedForeground": "#88ac69 ",
+	  "editorOverviewRuler.addedForeground": "#88ac69",
 	  "editorOverviewRuler.deletedForeground": "#bf616a",
 	  "editorOverviewRuler.errorForeground": "#bf616a",
 	  "editorOverviewRuler.warningForeground": "#e2bd72",
@@ -120,17 +119,6 @@
 	  "merge.incomingHeaderBackground": "#67ab8966",
 	  "merge.incomingContentBackground": "#67ab894d",
 	  "merge.border": "#eceff400",
-	  "notification.background": "#eceff4",
-	  "notification.foreground": "#2e3440",
-	  "notification.buttonBackground": "#eceff4",
-	  "notification.buttonHoverBackground": "#d8dee9",
-	  "notification.buttonForeground": "#2e3440",
-	  "notification.infoBackground": "#67aba9",
-	  "notification.infoForeground": "#eceff4",
-	  "notification.warningBackground": "#e2bd72",
-	  "notification.warningForeground": "#eceff4",
-	  "notification.errorBackground": "#bf616a",
-	  "notification.errorForeground": "#eceff4",
 	  "panel.background": "#eceff4",
 	  "panel.border": "#eceff4",
 	  "panelTitle.activeBorder": "#67aba900",
@@ -199,7 +187,7 @@
 	  "terminal.ansiWhite": "#e5e9f0",
 	  "terminal.ansiBrightBlack": "#d8dee9",
 	  "terminal.ansiBrightRed": "#bf616a",
-	  "terminal.ansiBrightGreen": "#88ac69 ",
+	  "terminal.ansiBrightGreen": "#88ac69",
 	  "terminal.ansiBrightYellow": "#e2bd72",
 	  "terminal.ansiBrightBlue": "#658db5",
 	  "terminal.ansiBrightMagenta": "#a4779c",
@@ -218,8 +206,7 @@
 	"tokenColors": [
 	  {
 		"settings": {
-		  "foreground": "#2e3440ff",
-		  "background": "#eceff4ff"
+		  "foreground": "#2e3440ff"
 		}
 	  },
 	  {
@@ -317,7 +304,6 @@
 		"scope": "invalid.deprecated",
 		"settings": {
 		  "foreground": "#2e3440",
-		  "background": "#e2bd72"
 		}
 	  },
 	  {
@@ -325,7 +311,6 @@
 		"scope": "invalid.illegal",
 		"settings": {
 		  "foreground": "#2e3440",
-		  "background": "#bf616a"
 		}
 	  },
 	  {
@@ -374,7 +359,7 @@
 		"name": "Markup Inserted",
 		"scope": "markup.inserted",
 		"settings": {
-		  "foreground": "#88ac69 "
+		  "foreground": "#88ac69"
 		}
 	  },
 	  {
