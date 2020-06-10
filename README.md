@@ -1,8 +1,6 @@
 # Polar
 A light colour scheme based on [@arcticeicestudio's Nord](https://github.com/arcticicestudio/nord) scheme.
 
-![polar colour swatches](https://github.com/mtyn/polar/blob/master/design/polar.png?raw=true)
-
 ## Included:
 
 * Firefox
