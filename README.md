@@ -26,8 +26,8 @@ New screenshots coming soon!
 
 (terminal and editor themes also use a lighter near-white background colour for improved readability)
 
-- iTerm2
+- iTerm2, Kitty, Terminal.app,
 
 ### Currently using modified colours
 
-- Jetbrains, Kitty, Terminal.app, Slack, Tmux, VSCode, XCode, Xfce Terminal
+- Jetbrains, Tmux, VSCode, XCode, Xfce Terminal
