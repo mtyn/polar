@@ -1,5 +1,5 @@
 # Polar
-A light colour scheme based on [@arcticeicestudio's Nord](https://github.com/arcticicestudio/nord) scheme.
+A light colour scheme based on [@arcticicestudio's Nord](https://github.com/arcticicestudio/nord) scheme.
 
 ## Included:
 
@@ -20,7 +20,7 @@ get the required colors.
 
 New screenshots coming soon!
 
-### Currently Using nord colours only
+### Currently using nord colours only
 
 (terminal and editor themes also use a lighter near-white background colour for improved readability)
 
