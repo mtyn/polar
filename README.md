@@ -20,21 +20,14 @@ There used to be a Vim theme here too, however I found that it worked better whe
 colours. For this I used one of the polar terminal themes with https://github.com/jeffkreeftmeijer/vim-dim to
 get the required colors.
 
-Screenshots of the theme in some of the apps are shown below.
+New screenshots coming soon!
 
-Things on the todo list:
+### Currently Using nord colours only
 
-- [] Fix the background color to a lighter shade to make some colors more readable
-     (potentially as an option to the standard Nord light color)
-- [] Remake some of the themes that use colors that don't match the original Nord theme colors
+(terminal and editor themes also use a lighter near-white background colour for improved readability)
 
-![iterm2](https://github.com/mtyn/polar/blob/master/iterm2/iterm2.png?raw=true)
+- iTerm2
 
-![vscode](https://github.com/mtyn/polar/blob/master/vscode/vscode.png?raw=true)
+### Currently using modified colours
 
-![xcode](https://github.com/mtyn/polar/blob/master/xcode/xcode.png?raw=true)
-
-![jetbrains](https://github.com/mtyn/polar/blob/master/jetbrains/jetbrains.png?raw=true)
-
-![tmux](https://github.com/mtyn/polar/blob/master/tmux/tmux.png?raw=true)
-
+- Jetbrains, Kitty, Terminal.app, Slack, Tmux, VSCode, XCode, Xfce Terminal

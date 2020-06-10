@@ -9,9 +9,6 @@ References:
 -->
 
 <scheme name="Polar" version="1" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="88ac69" />
     <option name="ANNOTATIONS_COLOR" value="2e3440" />
