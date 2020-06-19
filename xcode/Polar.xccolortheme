@@ -3,33 +3,33 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0.180392 0.203922 0.25098 1</string>
+	<string>0.135028 0.151762 0.193421 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>DankMono-Regular - 14.0</string>
+	<string>JetBrainsMono-Medium - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0.180392 0.203922 0.25098 1</string>
+	<string>0.135028 0.151762 0.193421 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>DankMono-Regular - 14.0</string>
+	<string>JetBrainsMono-Medium - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.396078 0.552941 0.709804 1</string>
+	<string>0.294451 0.421895 0.618228 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>DankMono-Regular - 14.0</string>
+	<string>JetBrainsMono-Medium - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0.180392 0.203922 0.25098 1</string>
+	<string>0.135028 0.151762 0.193421 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>DankMono-Regular - 14.0</string>
+	<string>JetBrainsMono-Medium - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.180392 0.203922 0.25098 1</string>
+	<string>0.135028 0.151762 0.193421 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>DankMono-Regular - 14.0</string>
+	<string>JetBrainsMono-Medium - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.975138 0.97462 0.996742 1</string>
+	<string>1 1 1 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0.180392 0.203922 0.25098 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.847059 0.870588 0.913725 1</string>
+	<string>0.90669 0.920552 0.946759 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.533333 0.67451 0.411765 1</string>
+	<string>0.57344 0.70465 0.467165 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
 	<key>DVTLineSpacing</key>
@@ -57,15 +57,15 @@
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0 0 0 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.AppleSystemUIFont - 18.2</string>
+	<string>.SFNS-Regular - 18.2</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.AppleSystemUIFont - 31.2</string>
+	<string>.SFNS-Regular - 31.2</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.AppleSystemUIFont - 23.4</string>
+	<string>.SFNS-Regular - 23.4</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTMarkupTextStrongFont</key>
@@ -85,130 +85,130 @@
 	<key>DVTScrollbarMarkerWarningColor</key>
 	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.980392 0.980392 0.980392 1</string>
+	<string>0.976471 0.980392 0.984314 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.424672 0.424672 0.424672 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.910131 0.920784 0.948188 1</string>
+	<string>0.90669 0.920552 0.946759 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.180392 0.203922 0.25098 1</string>
+	<string>0.135028 0.151762 0.193421 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.847059 0.870588 0.913725 1</string>
+	<string>0.921502 0.921474 0.92149 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.812177 0.838712 0.892397 1</string>
+	<string>0.90669 0.920552 0.946759 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0.774533 0.449686 0.355039 1</string>
+		<string>0.903288 0.760062 0.455655 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.57344 0.70465 0.467165 1</string>
+		<string>0.774533 0.449686 0.355039 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.729412 0.764706 0.839216 1</string>
+		<string>0.612713 0.666367 0.773715 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.729412 0.764706 0.839216 1</string>
+		<string>0.612713 0.666367 0.773715 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.487604 0.68705 0.679528 1</string>
+		<string>0.231743 0.263664 0.343654 1</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.487604 0.68705 0.679528 1</string>
+		<string>0.429412 0.55811 0.710975 1</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>0.487604 0.68705 0.679528 1</string>
+		<string>0.429412 0.55811 0.710975 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.487604 0.68705 0.679528 1</string>
+		<string>0.429412 0.55811 0.710975 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.487604 0.68705 0.679528 1</string>
+		<string>0.429412 0.55811 0.710975 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.135028 0.151762 0.193421 1</string>
+		<string>0.646129 0.470975 0.618779 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.135028 0.151762 0.193421 1</string>
+		<string>0.646129 0.470975 0.618779 1</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.458132 0.701534 0.778582 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.458132 0.701534 0.778582 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.294451 0.421895 0.618228 1</string>
+		<string>0.774533 0.449686 0.355039 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.294451 0.421895 0.618228 1</string>
+		<string>0.774533 0.449686 0.355039 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.493038 0.687611 0.675481 1</string>
-		<key>xcode.syntax.identifier.type.system</key>
 		<string>0.487604 0.68705 0.679528 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.646129 0.470975 0.618779 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.135028 0.151762 0.193421 1</string>
+		<string>0.487604 0.68705 0.679528 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.231743 0.263664 0.343654 1</string>
+		<string>0.201379 0.229117 0.298624 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.429412 0.55811 0.710975 1</string>
+		<string>0.294451 0.421895 0.618228 1</string>
 		<key>xcode.syntax.mark</key>
-		<string>0.290196 0.333333 0.376471 1</string>
+		<string>0.17533 0.195757 0.25521 1</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>0.705882 0.556863 0.678431 1</string>
+		<string>0.646129 0.470975 0.618779 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.646129 0.470975 0.618779 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.180392 0.203922 0.25098 1</string>
+		<string>0.135028 0.151762 0.193421 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.294451 0.421895 0.618228 1</string>
+		<string>0.696141 0.291022 0.336768 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.57344 0.70465 0.467165 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.674423 0.71191 0.801805 1</string>
+		<string>0.57344 0.70465 0.467165 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.character</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>DankMono-Italic - 14.0</string>
+		<string>Iosevka-Curly-Extended-Italic - 13.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>DankMono-Italic - 14.0</string>
+		<string>Iosevka-Curly-Extended-Italic - 13.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>DankMono-Italic - 14.0</string>
+		<string>Iosevka-Curly-Semibold-Extended-Italic - 13.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>DankMono-Italic - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>DankMono-Italic - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>DankMono-Italic - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.number</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.string</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 		<key>xcode.syntax.url</key>
-		<string>DankMono-Regular - 14.0</string>
+		<string>Iosevka-Curly-Extended - 13.0</string>
 	</dict>
 </dict>
 </plist>
