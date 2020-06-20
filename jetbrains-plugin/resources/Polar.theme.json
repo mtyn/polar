@@ -82,7 +82,7 @@
     "CompletionPopup": {
       "matchForeground": "#88c0d0",
       "selectionBackground": "#D8DEE9",
-      "selectionInactiveBackground": "#D8DEE9",
+      "selectionInactiveBackground": "#D8DEE9"
     },
     "Component": {
       "errorFocusColor": "#bf616a",
