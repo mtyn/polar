@@ -2,7 +2,7 @@
   "name": "Polar",
   "dark": false,
   "author": "Tim Hull",
-  "editorScheme": "/themes/polar.xml",
+  "editorScheme": "/Polar.xml",
   "ui": {
     "*": {
       "acceleratorForeground": "#88c0d0",
@@ -80,14 +80,9 @@
       "border": "#ECEFF4"
     },
     "CompletionPopup": {
-      "background": "#edf0f5",
       "matchForeground": "#88c0d0",
-      "matchSelectionForeground": "#88c0d0",
-      "nonFocusedState": "#f9fafb",
       "selectionBackground": "#D8DEE9",
       "selectionInactiveBackground": "#D8DEE9",
-      "selectionInactiveInfoForeground": "#D8DEE9",
-      "selectionInfoForeground": "#3B4252"
     },
     "Component": {
       "errorFocusColor": "#bf616a",
@@ -159,7 +154,7 @@
       "visitedForeground": "#88c0d0"
     },
     "List": {
-      "background": "#edf0f5",
+      "background": "#ECEFF4",
       "selectionInactiveForeground": "#434C5E"
     },
     "Menu": {
@@ -301,7 +296,7 @@
       "startBackground": "#88c0d0"
     },
     "SidePanel": {
-      "background": "#edf0f5"
+      "background": "#f9fafb"
     },
     "SpeedSearch": {
       "background": "#ECEFF4",
@@ -332,12 +327,12 @@
       "foreground": "#88c0d0"
     },
     "TextArea": {
-      "background": "#ECEFF4",
+      "background": "#f9fafb",
       "caretForeground": "#3B4252",
       "selectionForeground": "#4C566A"
     },
     "TextField": {
-      "background": "#ECEFF4",
+      "background": "#f9fafb",
       "caretForeground": "#3B4252",
       "darkShadow": "#ECEFF4"
     },
@@ -377,7 +372,7 @@
       }
     },
     "Tree": {
-      "background": "#edf0f5",
+      "background": "#f9fafb",
       "selectionBackground": "#88c0d0",
       "selectionForeground": "#f9fafb"
     },
