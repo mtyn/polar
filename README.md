@@ -29,3 +29,7 @@ New screenshots coming soon!
 ### Currently using modified colours
 
 - Jetbrains, Xfce Terminal
+
+### Changes from Nord Theme
+
+* Background / Lightest White Colour: #f9fafb
