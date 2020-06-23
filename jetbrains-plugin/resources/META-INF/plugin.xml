@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>dev.thull.polar</id>
   <name>Polar</name>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <vendor email="tim@thull.dev" url="http://www.github.com/mtyn/polar">Tim Hull</vendor>
 
   <description><![CDATA[
@@ -15,7 +15,7 @@
   </change-notes>
 
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191"/>
 
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
