@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>dev.thull.polar</id>
   <name>Polar</name>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <vendor email="tim@thull.dev" url="http://www.github.com/mtyn/polar">Tim Hull</vendor>
 
   <description><![CDATA[

@@ -1435,6 +1435,23 @@
                     <option name="EFFECT_TYPE" value="5" />
                 </value>
             </option>
+            <option name="RHTML_EXPRESSION_END_ID" baseAttributes="XML_TAG_NAME" />
+            <option name="RHTML_EXPRESSION_START_ID" baseAttributes="XML_TAG_NAME" />
+            <option name="RHTML_OMIT_NEW_LINE_ID" baseAttributes="XML_ATTRIBUTE_NAME" />
+            <option name="RHTML_SCRIPTING_BACKGROUND_ID" baseAttributes="XML_TAG_NAME" />
+            <option name="RHTML_SCRIPTLET_END_ID" baseAttributes="XML_TAG_NAME" />
+            <option name="RHTML_SCRIPTLET_START_ID" baseAttributes="XML_TAG_NAME" />
+            <option name="RUBY_EXPR_IN_STRING" baseAttributes="DEFAULT_PARENTHS" />
+            <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+            <option name="RUBY_HASH_ASSOC" baseAttributes="DEFAULT_OPERATION_SIGN" />
+            <option name="RUBY_HEREDOC_CONTENT" baseAttributes="TEXT" />
+            <option name="RUBY_HEREDOC_ID" baseAttributes="DEFAULT_IDENTIFIER" />
+            <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
+            <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+            <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+            <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+            <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
+            <option name="RUBY_REGEXP" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
             <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ATTRIBUTE">
                 <value>
                     <option name="FOREGROUND" value="b48ead" />
