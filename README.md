@@ -20,16 +20,6 @@ get the required colors.
 
 New screenshots coming soon!
 
-### Currently using nord colours only
-
-(terminal and editor themes also use a lighter near-white background colour for improved readability)
-
-- iTerm2, Kitty, Terminal.app, Tmux, VSCode, XCode
-
-### Currently using modified colours
-
-- Jetbrains, Xfce Terminal
-
 ### Changes from Nord Theme
 
 * Background / Lightest White Colour: #f9fafb
