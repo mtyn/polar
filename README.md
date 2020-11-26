@@ -13,6 +13,7 @@ A light colour scheme based on [@arcticicestudio's Nord](https://github.com/arct
 * Vscode
 * Xcode
 * Xfce Terminal
+* Sublime Text
 
 There used to be a Vim theme here too, however I found that it worked better when left to the normal terminal
 colours. For this I used one of the polar terminal themes with https://github.com/jeffkreeftmeijer/vim-dim to
