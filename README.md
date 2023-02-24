@@ -1,7 +1,12 @@
 # Polar
-A light colour scheme based on [@arcticicestudio's Nord](https://github.com/arcticicestudio/nord) scheme.
 
-> Note (2023-02-23): I'm aware a couple of the implementations have issues at the moment, I'm working on updating all the themes and will push updates soon!
+Polar is a pair of light colour schemes based on [@arcticicestudio's Nord](https://github.com/arcticicestudio/nord).
+
+The original **Polar** scheme uses the colours from Nord as-is, adding a pure white (`#FFFFFF`) background and reversing the roles of the  `Polar Night` and `Snow Storm` palettes from the original Nord theme.
+
+**New**: As some of the colors from the original palette are not very well contrasted for light backgrounds, also included is a variation, **Stark Polar**, which uses slightly adjusted colors from the original Nord scheme to have better contrast on light backgrounds while keeping the feel of the original.
+
+There is also a generator to rebuild the themes from the latest Nord themes where applicable, to make maintenence easier for a larger range of ports! The generator is written in Swift.
 
 ## Included:
 
