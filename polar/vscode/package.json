@@ -3,7 +3,7 @@
     "displayName": "Polar",
     "description": "A light colour scheme based on arcticicestudio's Nord theme",
     "publisher": "merithayan",
-    "version": "0.1.1",
+    "version": "2.0.0",
     "repository": "https://www.github.com/mtyn/polar",
     "engines": {
         "vscode": "^1.30.0"

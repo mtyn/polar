@@ -9,5 +9,7 @@ struct VSCode: Port {
         .file(path: "themes/Nord-color-theme.json", renameTo: "themes/<<THEME_NAME>>-color-theme.json")
     ]
     
-    var extraReplacements: [Replacement] = []
+    var extraReplacements: [Replacement] = [
+        Replacement(find: "\"type\": \"dark\",", replace: "\"type\": \"light\",")
+    ]
 }

@@ -106,7 +106,10 @@ public struct Generator {
         nordPath: URL
     ) throws {
         let sourceFileURL = nordPath.appending(component: filePathInNordTheme)
-        let destinationFileURL = basePath.appending(component: theme.folderName).appending(component: destination, directoryHint: .notDirectory)
+        let destinationFileURL = basePath
+            .appending(component: theme.folderName)
+            .appending(component: port.directory)
+            .appending(component: destination, directoryHint: .notDirectory)
         
         print("POLAR: -- Polarifying \(sourceFileURL)")
         
