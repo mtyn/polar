@@ -15,7 +15,6 @@ There is also a generator to rebuild the themes from the latest Nord themes wher
 * Jetbrains IDEs (editor theme, UI theme WIP)
 * Kitty terminal
 * Mac Terminal.app
-* Slack
 * Tmux
 * Vscode
 * Xcode

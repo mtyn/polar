@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug generator",
+            "program": "${workspaceFolder:generator}/.build/debug/generator",
+            "args": [],
+            "cwd": "${workspaceFolder:generator}",
+            "preLaunchTask": "swift: Build Debug generator"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release generator",
+            "program": "${workspaceFolder:generator}/.build/release/generator",
+            "args": [],
+            "cwd": "${workspaceFolder:generator}",
+            "preLaunchTask": "swift: Build Release generator"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug Generator",
+            "program": "${workspaceFolder:generator}/.build/debug/Generator",
+            "args": [],
+            "cwd": "${workspaceFolder:generator}",
+            "preLaunchTask": "swift: Build Debug Generator"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Release Generator",
+            "program": "${workspaceFolder:generator}/.build/release/Generator",
+            "args": [],
+            "cwd": "${workspaceFolder:generator}",
+            "preLaunchTask": "swift: Build Release Generator"
+        }
+    ]
+}
