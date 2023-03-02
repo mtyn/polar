@@ -10,6 +10,7 @@ enum PortComponent {
 struct Replacement {
     let find: String
     let replace: String
+    let doInverseCapitalisation: Bool
 }
 
 protocol Port {
@@ -39,7 +40,7 @@ protocol Port {
     /**
      Extra replacements that are required for the theme to work (e.g. where extra non-base Nord elements have been added)
      */
-    var extraReplacements: [Replacement] { get }
+    func extraReplacements(forTheme theme: PolarColorScheme) -> [Replacement]
 
     /**
     By default, an implementation will be created by doing find and replace on the colors from the Nord pallette.

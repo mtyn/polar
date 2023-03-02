@@ -28,8 +28,8 @@ public struct Generator {
         VSCode()
     ]
     
-    static let themes: [ColorScheme] = [
-        Themes.polar
+    static let themes: [PolarColorScheme] = [
+        PolarColorScheme()
     ]
 
     public static func main() {
@@ -98,7 +98,7 @@ public struct Generator {
     }
     
     static func processFile(
-        theme: ColorScheme,
+        theme: PolarColorScheme,
         port: Port,
         filePathInNordTheme: String,
         destination: String,
@@ -121,7 +121,7 @@ public struct Generator {
         print("POLAR: --- Success")
     }
     
-    static func convertName(_ name: String, forTheme theme: ColorScheme) -> String {
+    static func convertName(_ name: String, forTheme theme: PolarColorScheme) -> String {
         name.replacingOccurrences(of: "<<THEME_NAME>>", with: theme.title)
     }
 }
