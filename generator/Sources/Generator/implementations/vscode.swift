@@ -16,6 +16,11 @@ struct VSCode: Port {
                 find: "#3B4252",
                 replace: "\(theme.getColorComponent(forNordComponent: .polarNight2).hexValue)AA",
                 doInverseCapitalisation: true
+            ),
+            Replacement(
+                find: "#616E88",
+                replace: theme.getColorComponent(forNordComponent: .polarNight3).hexValue,
+                doInverseCapitalisation: true
             )
         ]
     }

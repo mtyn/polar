@@ -17,11 +17,11 @@ public class PolarColorScheme {
         case .polarNight0:
             return CustomColor("#FFFFFF")
         case .polarNight1:
-            return NordComponent.snowStorm6
+            return NordComponent.snowStorm4
         case .polarNight2:
             return NordComponent.snowStorm5
         case .polarNight3:
-            return NordComponent.snowStorm4
+            return NordComponent.snowStorm6
         case .snowStorm4:
             return NordComponent.polarNight2
         case .snowStorm5:
