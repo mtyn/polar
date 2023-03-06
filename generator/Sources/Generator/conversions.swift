@@ -27,7 +27,9 @@ func hexCodeToRGB(hex: String) -> RGB {
     )
 }
 
-func hexToXcodeString(_ hex: String, alpha: Double = 1) -> String {
+func hexToXcodeString(_ hex: String) -> String {
     let rgb = hexCodeToRGB(hex: hex)
-    return "\(rgb.r) \(rgb.g) \(rgb.b) \(alpha)"
+    let formatter = NumberFormatter()
+    formatter.maximumFractionDigits = 6
+    return "\(formatter.string(for: rgb.r)!) \(formatter.string(for: rgb.g)!) \(formatter.string(for: rgb.b)!)"
 }

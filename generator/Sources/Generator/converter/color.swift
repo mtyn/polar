@@ -1,5 +1,7 @@
-public protocol Color {
+protocol Color {
     var hexValue: String { get }
+    
+    func get(as style: ColorStyle) -> String
 }
 
 extension Color {

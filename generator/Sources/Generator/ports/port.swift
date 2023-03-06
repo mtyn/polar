@@ -11,6 +11,14 @@ struct Replacement {
     let find: String
     let replace: String
     let doInverseCapitalisation: Bool
+    let firstReplacementOnly: Bool
+    
+    init(find: String, replace: String, doInverseCapitalisation: Bool, firstReplacementOnly: Bool = false) {
+        self.find = find
+        self.replace = replace
+        self.doInverseCapitalisation = doInverseCapitalisation
+        self.firstReplacementOnly = firstReplacementOnly
+    }
 }
 
 protocol Port {

@@ -25,7 +25,8 @@ public struct Generator {
     static let baseURL = URL(filePath: "../", directoryHint: .isDirectory)
 
     static let portsToGenerate: [Port] = [
-        VSCode()
+        VSCode(),
+        XCode()
     ]
     
     static let themes: [PolarColorScheme] = [

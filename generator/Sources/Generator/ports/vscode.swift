@@ -12,9 +12,10 @@ struct VSCode: Port {
     func extraReplacements(forTheme theme: PolarColorScheme) -> [Replacement] {
         [
             replacementForStringJSONValue(key: "type", oldValue: "dark", newValue: "light"),
+            // TODO: Check if these colors are used in other ports, and make Nord components for them if so
             Replacement(
                 find: "#3B4252",
-                replace: "\(theme.getColorComponent(forNordComponent: .polarNight2).hexValue)AA",
+                replace: "\(theme.getColorComponent(forNordComponent: .polarNight1).hexValue)AA",
                 doInverseCapitalisation: true
             ),
             Replacement(
