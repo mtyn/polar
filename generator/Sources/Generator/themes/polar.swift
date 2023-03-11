@@ -11,7 +11,7 @@ public class PolarColorScheme {
     func getColorComponent(forNordComponent component: NordComponent) -> Color {
         switch component {
         case .polarNight0:
-            return CustomColor("#FFFFFF")
+            return CustomColor("FFFFFF")
         case .polarNight1:
             return NordComponent.snowStorm6
         case .polarNight2:

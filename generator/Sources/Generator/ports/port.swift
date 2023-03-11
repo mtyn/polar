@@ -1,5 +1,16 @@
 enum ColorStyle {
     case hex, rgbXML, base64
+    
+    func shouldRunLowercasedVersion() -> Bool {
+        switch self {
+        case .hex:
+            return true
+        case .rgbXML:
+            return false
+        case .base64:
+            return false
+        }
+    }
 }
 
 enum PortComponent {
@@ -47,6 +58,8 @@ protocol Port {
     
     /**
      Extra replacements that are required for the theme to work (e.g. where extra non-base Nord elements have been added)
+     
+     These run after both Nord naming and color changes have run, but before the customisations supplied in applyCustomisations
      */
     func extraReplacements(forTheme theme: PolarColorScheme) -> [Replacement]
 

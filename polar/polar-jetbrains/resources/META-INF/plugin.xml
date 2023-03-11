@@ -1,0 +1,35 @@
+<idea-plugin>
+    <id>dev.thull.polar</id>
+    <version>2.0.0</version>
+
+    <name>Polar</name>
+    <category>UI</category>
+
+    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
+    <vendor email="tim@thull.dev" url="http://www.github.com/mtyn/polar">Tim Hull</vendor>
+
+    <idea-version since-build="191"/>
+
+    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
+         Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+    <description><![CDATA[
+      A light editor and UI theme adapted from Arctic Ice Studio's Nord theme
+    ]]></description>
+
+    <!-- Short summary of new features and bugfixes in the latest plugin version.
+         Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
+    <change-notes><![CDATA[
+      <p>v2.0.0: Update to use theme generated from Nord theme files</p>
+      <p>v1.0.2: Fix broken previous build</p>
+      <p>v1.0.1: Move to UI and editor theme from the original editor only theme.</p>
+  ]]></change-notes>
+
+    <!-- Product and plugin compatibility requirements.
+         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="polar-jetbrains" path="/theme/polar.theme.json"/>
+    </extensions>
+</idea-plugin>

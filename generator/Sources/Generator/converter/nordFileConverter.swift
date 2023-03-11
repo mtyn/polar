@@ -1,17 +1,19 @@
 import Foundation
 
-
-
 @available(macOS 13.0, *)
 func convertFileToPolar(fileContent: String, colorScheme: PolarColorScheme, port: Port) -> String {
     var output = fileContent
     
-    // First, replace all Nord base components with placeholders so we don't accidentally re-convert already converted colors
+    // Convert Nord titling
+    output = output.replacingOccurrences(of: "Nord", with: colorScheme.title)
+    output = output.replacingOccurrences(of: "nord", with: colorScheme.title.lowercased()) // TODO: will likely cause problems with variable names and Polar Winter
+    
+    // Replace all Nord base components with placeholders so we don't accidentally re-convert already converted colors
     NordComponent.allCases.forEach { nordComponent in
         print("POLAR: -- Replacing \(output.matches(of: nordComponent.get(as: port.colorStyle)).count) instances of \(nordComponent.placeholder())")
         output = output.replacing(nordComponent.get(as: port.colorStyle), with: nordComponent.placeholder())
-        if port.colorStyle == .hex {
-            output = output.replacing(nordComponent.get(as: port.colorStyle).lowercased(), with: nordComponent.placeholder())
+        if port.colorStyle.shouldRunLowercasedVersion() {
+            output = output.replacing(nordComponent.get(as: port.colorStyle).lowercased(), with: nordComponent.placeholder().lowercased())
         }
     }
     
@@ -20,6 +22,10 @@ func convertFileToPolar(fileContent: String, colorScheme: PolarColorScheme, port
         let replacementColor = colorScheme.getColorComponent(forNordComponent: nordComponent)
         print("POLAR: -- Replacing \(nordComponent.get(as: port.colorStyle)) with \(replacementColor.get(as: port.colorStyle))")
         output = output.replacing(nordComponent.placeholder(), with: replacementColor.get(as: port.colorStyle))
+        
+        if port.colorStyle.shouldRunLowercasedVersion() {
+            output = output.replacing(nordComponent.placeholder().lowercased(), with: replacementColor.get(as: port.colorStyle).lowercased())
+        }
     }
     
     // Convert extra cases
@@ -34,11 +40,7 @@ func convertFileToPolar(fileContent: String, colorScheme: PolarColorScheme, port
             output = output.replacingOccurrences(of: replacement.find.lowercased(), with: replacement.replace.lowercased())
         }
     }
-    
-    // Convert Nord titling
-    output = output.replacingOccurrences(of: "Nord", with: colorScheme.title)
-    output = output.replacingOccurrences(of: "nord", with: colorScheme.title.lowercased()) // TODO: will likely cause problems with variable names and Stark Polar
-    
+
     output = port.applyCustomisations(using: output)
     
     return output
