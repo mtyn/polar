@@ -16,7 +16,9 @@ struct JetBrains: Port {
         [
             Replacement(find: "Arctic Ice Studio", replace: "Tim Hull", doInverseCapitalisation: false),
             Replacement(find: "\"dark\": true", replace: "\"dark\": false", doInverseCapitalisation: false),
-            Replacement(find: "/themes/", replace: "/theme/", doInverseCapitalisation: false)
+            Replacement(find: "/themes/", replace: "/theme/", doInverseCapitalisation: false),
+            Replacement(find: "Darcula", replace: "Default", doInverseCapitalisation: false),
+            Replacement(find: "323846", replace: theme.getColorComponent(forNordComponent: .polarNight1).get(as: .hex).lowercased(), doInverseCapitalisation: false)
         ]
     }
 }
