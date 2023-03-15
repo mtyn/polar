@@ -2,8 +2,6 @@ import Foundation
 
 // MARK: - Polar Scheme
 
-// comment
-
 public class PolarColorScheme {
     var title: String { "Polar" }
     var folderName: String { title.lowercased() }
