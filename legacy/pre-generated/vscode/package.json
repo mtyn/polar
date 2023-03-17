@@ -1,0 +1,23 @@
+{
+    "name": "polar",
+    "displayName": "Polar",
+    "description": "A light colour scheme based on arcticicestudio's Nord theme",
+    "publisher": "merithayan",
+    "version": "0.1.1",
+    "repository": "https://www.github.com/mtyn/polar",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Polar",
+                "uiTheme": "vs",
+                "path": "./themes/Polar-color-theme.json"
+            }
+        ]
+    }
+}
