@@ -1,7 +1,7 @@
 {
   "name": "Polar",
   "dark": false,
-  "author": "Tim Hull",
+  "author": "Sven Greb",
   "editorScheme": "/theme/polar.xml",
   "ui": {
     "*": {
@@ -11,8 +11,8 @@
       "borderColor": "#eceff4",
       "disabledBackground": "#ffffff",
       "disabledBorderColor": "#eceff4",
-      "disabledForeground": "#616e88",
-      "disabledText": "#616e88",
+      "disabledForeground": "#d8dee9",
+      "disabledText": "#d8dee9",
       "errorForeground": "#bf616a",
       "focusColor": "#88c0d0",
       "focusedBorderColor": "#88c0d0",
@@ -31,7 +31,7 @@
       "selectionForeground": "#2e3440",
       "selectionInactiveBackground": "#e5e9f0",
       "separatorColor": "#d8dee9",
-      "separatorForeground": "#616e88"
+      "separatorForeground": "#d8dee9"
     },
     "ActionButton": {
       "hoverBackground": "#d8dee9",
@@ -69,7 +69,7 @@
       "selectionForeground": "#ffffff",
       "ArrowButton": {
         "disabledIconColor": "#d8dee9",
-        "iconColor": "#616e88",
+        "iconColor": "#d8dee9",
         "nonEditableBackground": "#eceff4"
       }
     },
@@ -111,7 +111,7 @@
       "background": "#ffffff",
       "borderColor": "#eceff4",
       "hoverBackground": "#eceff4",
-      "inactiveUnderlineColor": "#616e88",
+      "inactiveUnderlineColor": "#d8dee9",
       "underlineColor": "#88c0d0"
     },
     "DragAndDrop": {
@@ -380,7 +380,7 @@
         "background": "#d8dee9"
       },
       "HeaderTab": {
-        "hoverBackground": "#616e88"
+        "hoverBackground": "#d8dee9"
       }
     },
     "Tree": {
@@ -410,7 +410,7 @@
       "HgLog": {
         "bookmarkIconColor": "#d08770",
         "branchIconColor": "#88c0d0",
-        "closedBranchIconColor": "#616e88",
+        "closedBranchIconColor": "#d8dee9",
         "headIconColor": "#a3be8c",
         "localTagIconColor": "#5e81ac",
         "mqTagIconColor": "#8fbcbb",
@@ -448,7 +448,7 @@
       "Actions.Green": "#a3be8c",
       "Actions.Grey": "#7b88a1",
       "Actions.GreyInline": "#7b88a1",
-      "Actions.GreyInline.Dark": "#616e88",
+      "Actions.GreyInline.Dark": "#d8dee9",
       "Actions.Red": "#bf616a",
       "Actions.Yellow": "#ebcb8b",
       "Checkbox.Background.Default.Dark": "#d8dee9",

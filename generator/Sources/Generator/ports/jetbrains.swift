@@ -18,7 +18,12 @@ struct JetBrains: Port {
             Replacement(find: "\"dark\": true", replace: "\"dark\": false", doInverseCapitalisation: false),
             Replacement(find: "/themes/", replace: "/theme/", doInverseCapitalisation: false),
             Replacement(find: "Darcula", replace: "Default", doInverseCapitalisation: false),
-            Replacement(find: "323846", replace: theme.getColorComponent(forNordComponent: .polarNight1).get(as: .hex).lowercased(), doInverseCapitalisation: false)
+            Replacement(find: "323846", replace: theme.getColorComponent(forNordComponent: .polarNight1).get(as: .hex).lowercased(), doInverseCapitalisation: false),
+            Replacement(
+                find: "616E88",
+                replace: theme.getColorComponent(forNordComponent: .polarNight3).hexValue,
+                doInverseCapitalisation: true
+            )
         ]
     }
 }

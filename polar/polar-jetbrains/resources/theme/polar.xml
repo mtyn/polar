@@ -57,7 +57,7 @@
     <option name="QUESTION_HINT" value="e5e9f0" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="d8dee9" />
-    <option name="SELECTED_INDENT_GUIDE" value="616e88" />
+    <option name="SELECTED_INDENT_GUIDE" value="d8dee9" />
     <option name="SELECTED_TEARLINE_COLOR" value="e5e9f0" />
     <option name="SELECTION_BACKGROUND" value="e5e9f0" />
     <option name="SEPARATOR_ABOVE_COLOR" value="d8dee9" />
@@ -203,7 +203,7 @@
     </option>
     <option name="BASH.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="BASH.NUMBER">
@@ -229,7 +229,7 @@
     </option>
     <option name="BASH.SHEBANG">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -276,7 +276,7 @@
     </option>
     <option name="BLADE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="BLADE_DIRECTIVE">
@@ -338,7 +338,7 @@
     </option>
     <option name="BUILDOUT.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="BUILDOUT.SECTION_NAME">
@@ -359,7 +359,7 @@
     </option>
     <option name="Block comment">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="Braces">
@@ -390,7 +390,7 @@
     </option>
     <option name="COFFEESCRIPT.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="COFFEESCRIPT.BOOLEAN">
@@ -501,7 +501,7 @@
     </option>
     <option name="COFFEESCRIPT.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="COFFEESCRIPT.LOCAL_VARIABLE">
@@ -616,7 +616,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -748,7 +748,7 @@
     </option>
     <option name="CSS.COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="CSS.DOT">
@@ -873,12 +873,12 @@
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
@@ -970,7 +970,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -1005,7 +1005,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -1016,7 +1016,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -1092,7 +1092,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -1221,7 +1221,7 @@
     </option>
     <option name="DJANGO_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="DJANGO_FILTER">
@@ -1271,7 +1271,7 @@
     </option>
     <option name="DOCKER_COMMENTS">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="DOCKER_DOT">
@@ -1306,7 +1306,7 @@
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -1415,7 +1415,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
         <option name="BACKGROUND" value="eceff4" />
       </value>
     </option>
@@ -1485,7 +1485,7 @@
     </option>
     <option name="GO_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="GO_BRACES">
@@ -1597,7 +1597,7 @@
     </option>
     <option name="GO_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="GO_LOCAL_CONSTANT">
@@ -1780,7 +1780,7 @@
     </option>
     <option name="GO_TEMPLATE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="GO_TEMPLATE_DELIMITER">
@@ -1878,13 +1878,13 @@
     </option>
     <option name="GRID_IMAGE_VALUE">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
         <option name="BACKGROUND" value="eceff4" />
       </value>
     </option>
     <option name="GRID_NULL_VALUE">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="GROOVY_KEYWORD">
@@ -1935,7 +1935,7 @@
     </option>
     <option name="Groovydoc comment">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="Groovydoc tag">
@@ -1951,7 +1951,7 @@
     </option>
     <option name="HAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="HAML_FILTER">
@@ -2092,7 +2092,7 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -2124,7 +2124,7 @@
     </option>
     <option name="HTTP_REQUEST_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="HTTP_REQUEST_DIFFERENCE_FILE">
@@ -2161,14 +2161,14 @@
     </option>
     <option name="HTTP_REQUEST_MULTIPART_BOUNDARY">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="HTTP_REQUEST_SEPARATOR">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="HTTP_REQUEST_VARIABLE_BRACES">
@@ -2214,7 +2214,7 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
         <option name="BACKGROUND" value="eceff4" />
       </value>
     </option>
@@ -2277,7 +2277,7 @@
     </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="JAVA_BRACES">
@@ -2297,7 +2297,7 @@
     </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="JAVA_DOC_MARKUP">
@@ -2330,7 +2330,7 @@
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
@@ -2371,7 +2371,7 @@
     </option>
     <option name="JS.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="JS.BRACES">
@@ -2401,7 +2401,7 @@
     </option>
     <option name="JS.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="JS.DOC_MARKUP">
@@ -2487,7 +2487,7 @@
     </option>
     <option name="JS.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="JS.LOCAL_FUNCTION">
@@ -2570,7 +2570,7 @@
     </option>
     <option name="JSON.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="JSON.BRACES">
@@ -2607,7 +2607,7 @@
     </option>
     <option name="JSON.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="JSON.NUMBER">
@@ -2642,7 +2642,7 @@
     </option>
     <option name="JSP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_BACKGROUND">
@@ -2665,7 +2665,7 @@
     </option>
     <option name="JUPYTER_INLINE_VALUES">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2676,7 +2676,7 @@
     </option>
     <option name="KDOC_LINK">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -2708,7 +2708,7 @@
     </option>
     <option name="KOTLIN_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="KOTLIN_BRACES">
@@ -2748,7 +2748,7 @@
     </option>
     <option name="KOTLIN_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="KOTLIN_DOT">
@@ -2834,7 +2834,7 @@
     </option>
     <option name="KOTLIN_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="KOTLIN_LOCAL_VARIABLE">
@@ -3020,7 +3020,7 @@
     </option>
     <option name="LESS_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="LESS_DOT">
@@ -3180,7 +3180,7 @@
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
@@ -3235,7 +3235,7 @@
     </option>
     <option name="Line comment">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="List/map to object conversion">
@@ -3269,7 +3269,7 @@
     </option>
     <option name="MAKO.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="MAKO.SUBSTITUTION">
@@ -3297,7 +3297,7 @@
     </option>
     <option name="MARKDOWN_BLOCK_QUOTE">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="MARKDOWN_BLOCK_QUOTE_MARKER">
@@ -3552,7 +3552,7 @@
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="PHP_CONSTANT">
@@ -3563,7 +3563,7 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="PHP_DOC_IDENTIFIER">
@@ -3761,7 +3761,7 @@
     </option>
     <option name="PROPERTIES.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
@@ -3776,7 +3776,7 @@
     </option>
     <option name="PROTO_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="PROTO_ENUM_CONSTANT">
@@ -3791,7 +3791,7 @@
     </option>
     <option name="PROTO_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="PROTO_NUMBER">
@@ -3863,7 +3863,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT_TAG">
@@ -3921,7 +3921,7 @@
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="PY.METHOD_CALL">
@@ -4135,7 +4135,7 @@
     </option>
     <option name="REGEXP.COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="REGEXP.DOT">
@@ -4221,7 +4221,7 @@
     </option>
     <option name="RHTML_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_END_ID">
@@ -4282,7 +4282,7 @@
     </option>
     <option name="RUBY_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="RUBY_CONSTANT">
@@ -4503,7 +4503,7 @@
     </option>
     <option name="SASS_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="SASS_DEFAULT">
@@ -4647,7 +4647,7 @@
     </option>
     <option name="SMARTY_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="SMARTY_IDENTIFIER">
@@ -4771,7 +4771,7 @@
     </option>
     <option name="SPY-JS.EXECUTION_TIME">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="SPY-JS.FUNCTION_SCOPE">
@@ -4823,7 +4823,7 @@
     </option>
     <option name="SQL_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="SQL_DATABASE_OBJECT">
@@ -5054,7 +5054,7 @@
     </option>
     <option name="TDIFF_EXCLUDED_COLUMN">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="TDIFF_FUZZY_MATCHED">
@@ -5105,7 +5105,7 @@
     </option>
     <option name="TS.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="TS.BRACES">
@@ -5135,7 +5135,7 @@
     </option>
     <option name="TS.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="TS.DOC_MARKUP">
@@ -5200,7 +5200,7 @@
     </option>
     <option name="TS.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="TS.LOCAL_VARIABLE">
@@ -5298,7 +5298,7 @@
     </option>
     <option name="TWIG_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
@@ -5383,7 +5383,7 @@
     </option>
     <option name="VELOCITY_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="VELOCITY_DIRECTIVE">
@@ -5484,7 +5484,7 @@
     </option>
     <option name="XML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
@@ -5596,7 +5596,7 @@
     </option>
     <option name="YAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="YAML_SCALAR_DSTRING">
@@ -5667,7 +5667,7 @@
     </option>
     <option name="com.plan9.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616e88" />
+        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="com.plan9.OPERATOR">
